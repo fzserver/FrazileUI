@@ -89,7 +89,9 @@ flutter build apk --release
 openssl enc -aes-256-cbc -e -in google-services.json -out google-services.fz
 ```
 
-Decryption
+## Decryption
+
+### Please decrypt all the certificates, keys, .json, .jks, .plist files whenever needed to there specific locations.
 
 ```shell
 openssl enc -aes-256-cbc -d -in google-services.json -out google-services.fz
@@ -106,7 +108,7 @@ Parth Aggarwal <frazile.com@frazile.com>, <frazile.com@icloud.com>
 
 1. Surya Dev Singh <suryadevsingh24032000@gmail.com>
 2. Raman Goel <iamramangoel@gmail.com>
-3. Easha <>
+3. Gursharan Kaur <>
 
 # Copyright Claim
 

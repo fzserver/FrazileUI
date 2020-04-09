@@ -4,6 +4,9 @@ name: frazileui
 # App Description
 description: FrazileUi is a collection of best UI Designs with Functionalities.
 
+# Remove this line if you wish to publish to pub.dev
+publish_to: "none"
+
 # App Version for both Android & iOS
 version: 1.0.0+1
 
